@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
 .idea
-/srp/target/
+target/
 .DS_Store
-/srp/*.rec
+*.rec

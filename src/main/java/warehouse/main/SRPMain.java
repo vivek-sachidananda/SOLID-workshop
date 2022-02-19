@@ -5,7 +5,7 @@ import warehouse.item.Item;
 
 import java.util.List;
 
-public class SaveItemsMain {
+public class SRPMain {
     public static void main(String[] args) {
         // Get the Items from repository
         ItemRepository repository = new ItemRepository();
