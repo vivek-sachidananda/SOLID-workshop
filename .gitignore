@@ -2,3 +2,4 @@
 .idea
 /srp/target/
 .DS_Store
+/srp/*.rec
