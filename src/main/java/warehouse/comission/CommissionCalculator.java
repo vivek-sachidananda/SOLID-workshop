@@ -5,7 +5,7 @@ import warehouse.item.Item;
 public class CommissionCalculator {
     private final int SERVICE_COMMISSION_PC = 10;
     private final int THIRD_PARTY_COMMISSION_PC = 16;
-    private final int FIXED_COMMISSION = 100;
+    private final int FIXED_COMMISSION = 10;
 
 
     public double calculate(Item item) {

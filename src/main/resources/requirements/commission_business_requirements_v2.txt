@@ -1,0 +1,18 @@
+#Business Requirement Document
+#Version 2.0
+
+Commission for items are calculated like this:
+
+1) for DDC
+- Fixed EUR 10 amount for fixed commission
+- 5% service commission
+- 17% third party commission
+
+2) for ART
+- Fixed EUR 10 amount for fixed commission
+- 10% service commission
+- 16% third party commission
+
+3) for SPR
+- If income < 350 => then Fixed is EUR 15 fixed commission
+- Else => only 16% service commission

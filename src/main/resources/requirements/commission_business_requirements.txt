@@ -1,0 +1,8 @@
+#Business Requirement Document
+#Version 1.0
+
+Commission for items are calculated like this:
+
+- Fixed EUR 10 amount for base commission
+- 16% third party commission
+- 10% service commission
