@@ -18,7 +18,7 @@ public class ItemRepository {
 
     public List<Item> findAll(){
 
-        // Employees are kept in memory for simplicity
+        // Items are kept in memory for simplicity
         Item art = new Art("Kallax", "Shelves", 800);
         Item ddc = new Ddc("Billy", "Worktop", 8000);
 
